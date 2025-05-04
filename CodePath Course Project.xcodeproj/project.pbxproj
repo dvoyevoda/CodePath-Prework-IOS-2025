@@ -24,6 +24,7 @@
 		6447A6062DC7E18000F45B55 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6447A6092DC7E18000F45B55 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6447A60B2DC7E18000F45B55 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6447A6132DC7F12E00F45B55 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +41,7 @@
 		6447A5F12DC7E17D00F45B55 = {
 			isa = PBXGroup;
 			children = (
+				6447A6132DC7F12E00F45B55 /* README.md */,
 				6447A5FC2DC7E17D00F45B55 /* CodePath Course Project */,
 				6447A5FB2DC7E17D00F45B55 /* Products */,
 			);
